@@ -18,4 +18,3 @@
    <br/>
    Let's check out in gist!
 </p>
-.
